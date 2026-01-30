@@ -50,4 +50,4 @@ To run this portfolio locally:
 6. **Start the development server:**
    ```bash
    npm run dev
-##Contact: srinath.y.dev@gmail.com | LinkedIn | GitHub##
+##Contact: srinath.y.dev@gmail.com | LinkedIn | GitHub
