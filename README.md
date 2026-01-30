@@ -29,7 +29,7 @@ A professional, high-performance portfolio showcasing full-stack applications, A
 * [cite_start]**Features:** Implements collision detection, score tracking, and smooth real-time controls[cite: 27, 28].
 
 ## 📜 Certifications
-**The Complete Full-Stack Web Development Bootcamp** (Udemy).
+* **The Complete Full-Stack Web Development Bootcamp** (Udemy).
 * 61.5 hours of training covering the MERN stack and deployment workflows.
 
 ## 🛠️ Local Development
